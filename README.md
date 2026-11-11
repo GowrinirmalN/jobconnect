@@ -265,5 +265,4 @@ jobconnect/
 - **Production Architecture**: Layered architecture (Controller-Service-Repository), standard DTO envelopes, unified error handling, and transactional database integrity.
 - **Clean SaaS UI/UX**: Designed with professional typography, custom badges, responsive mobile/desktop layouts, and interactive loading & empty states.
 
-=======
-# jobconnect
+
