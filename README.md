@@ -1,3 +1,4 @@
+
 # JobConnect – Online Job Portal & Recruitment Management System
 
 [![Java](https://img.shields.io/badge/Java-21%20LTS-orange.svg)](https://www.oracle.com/java/)
@@ -264,3 +265,5 @@ jobconnect/
 - **Production Architecture**: Layered architecture (Controller-Service-Repository), standard DTO envelopes, unified error handling, and transactional database integrity.
 - **Clean SaaS UI/UX**: Designed with professional typography, custom badges, responsive mobile/desktop layouts, and interactive loading & empty states.
 
+=======
+# jobconnect
