@@ -50,7 +50,6 @@ frontend/.pnpm-debug.log*
 # IDE
 .idea/
 *.iml
-.vscode/
 *.suo
 *.ntvs*
 *.njsproj
@@ -58,3 +57,9 @@ frontend/.pnpm-debug.log*
 *.sw?
 .DS_Store
 Thumbs.db
+
+# User Uploads
+uploads/
+backend/uploads/
+
+

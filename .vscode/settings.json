@@ -1,0 +1,15 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "maven.executable.path": "C:\\Program Files\\Apache NetBeans\\java\\maven\\bin\\mvn.cmd",
+  "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-25",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+  }
+}
+

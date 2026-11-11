@@ -263,3 +263,4 @@ jobconnect/
 - **Full-Stack Proficiency**: Seamless integration between Java 21 Spring Boot 3 microservices and modern React 18 SPA.
 - **Production Architecture**: Layered architecture (Controller-Service-Repository), standard DTO envelopes, unified error handling, and transactional database integrity.
 - **Clean SaaS UI/UX**: Designed with professional typography, custom badges, responsive mobile/desktop layouts, and interactive loading & empty states.
+
