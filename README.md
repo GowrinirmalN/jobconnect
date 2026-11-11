@@ -15,7 +15,7 @@
 
 ---
 
-## 🌟 Key Application Features
+##  Key Application Features
 
 ### 1. Public & Core Experience
 - **Interactive Landing Page**: Modern SaaS design with live multi-parameter job search, category discovery pills, real-time statistics counters, and featured opportunities.
@@ -49,7 +49,7 @@
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```mermaid
 graph TD
@@ -67,7 +67,7 @@ graph TD
 
 ---
 
-## 🗄️ Database Schema & Normalization
+##  Database Schema & Normalization
 
 The database is structured in 3rd Normal Form (3NF) with explicit constraints and foreign keys:
 
@@ -85,7 +85,7 @@ Seed script available at: `database/data.sql`
 
 ---
 
-## 🔑 Pre-Configured Demo Credentials
+##  Pre-Configured Demo Credentials
 
 The database automatically seeds the following verified accounts on startup:
 
@@ -99,7 +99,7 @@ The database automatically seeds the following verified accounts on startup:
 
 ---
 
-## 📡 REST API Reference
+##  REST API Reference
 
 Swagger UI is available at: **`http://localhost:8080/swagger-ui.html`**  
 OpenAPI JSON Docs: **`http://localhost:8080/v3/api-docs`**
@@ -148,7 +148,7 @@ OpenAPI JSON Docs: **`http://localhost:8080/v3/api-docs`**
 
 ---
 
-## 🚀 Setup & Execution Instructions
+##  Setup & Execution Instructions
 
 ### Prerequisites
 - **Java 21 LTS** or higher (`java -version`)
@@ -210,7 +210,7 @@ npm run build
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 jobconnect/
@@ -251,7 +251,7 @@ jobconnect/
 
 ---
 
-## 🛡️ Security Features
+##  Security Features
 - **Stateless JWT Authentication**: Tokens signed with HMAC-SHA512 with 24-hour expiration.
 - **Granular Authorization**: Role-based endpoint guards (`ROLE_ADMIN`, `ROLE_RECRUITER`, `ROLE_JOB_SEEKER`) via `@PreAuthorize`.
 - **BCrypt Encryption**: Passwords salted and hashed with BCrypt (10 rounds).
@@ -260,7 +260,7 @@ jobconnect/
 
 ---
 
-## 👨‍💻 Portfolio & Resume Highlights
+##  Portfolio & Resume Highlights
 - **Full-Stack Proficiency**: Seamless integration between Java 21 Spring Boot 3 microservices and modern React 18 SPA.
 - **Production Architecture**: Layered architecture (Controller-Service-Repository), standard DTO envelopes, unified error handling, and transactional database integrity.
 - **Clean SaaS UI/UX**: Designed with professional typography, custom badges, responsive mobile/desktop layouts, and interactive loading & empty states.
